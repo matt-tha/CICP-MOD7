@@ -8,7 +8,7 @@
 4. Select Trojan. Click Next.
 5. For this exercise select Not Packed. However take a moment to review the other available options. Click Next. 
 6. Select Windows as the target platform. Click Next. 
-7. Select Wait Indefinitely for Incoming Connections. Click next. 
+7. Select Wait indefinitely for incoming connections. Click next. 
 8. Continue with the default email template. Click Next.
 9. Enter “ mail.doubleshield.org “ as the SMTP Server. Click Next. 
 10.Proceed through the remainder of the wizard using default settings.
@@ -27,5 +27,5 @@ Congratulations. As the end user you have just fallen victim to a Trojan attack.
 2. If successful you will now see a network entity for 10.12.4.16, this is the End User PC.
 3. If you wish you can now proceed with Network Attack and Penetration as demonstrated in Module 5b. (Practice makes perfect.)
 
-This concludes the lab exercise.
+This concludes lab exercise 4.
 
