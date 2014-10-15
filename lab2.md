@@ -1,18 +1,11 @@
 #### Instructions
 
-1. Keep providing instrucions.
+1. Switch to the Client Side view by clicking the client side tab located in the top center of the screen. 
+2. Right click in the entities pane (center of the workspace) and select New Email.
+3. Enter the address ‘ helpdesk@doubleshield.org ‘ and the name ‘ Helpdesk ‘
+4. Click OK to create the address. 
+5. Repeat these steps to add the address ‘ dmills@doubleshield.org ‘, ‘ Debra Mills ‘
+6. Verify the two email addresses have been added to your workspace. 
 
-2. If this is the last lab then end with the next step:
-
-3. You have completed this block of instruction. Please read the conclusion at
-    ```
-    /root/THA/NAME-OF-LAB/Conclusion.md
-    ```
-
-4. If there are more labs in the series make sure you end with the next step:
-
-5. You have completed this lab. You can continue to lab 3 by following the instructions found at 
-    ```
-    /root/THA/NAME-OF-LAB/lab3.md
-    ```
+This concludes the lab exercise.
 
