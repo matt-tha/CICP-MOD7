@@ -27,5 +27,5 @@ Congratulations. As the end user you have just fallen victim to a Trojan attack.
 2. If successful you will now see a network entity for 10.12.4.16, this is the End User PC.
 3. If you wish you can now proceed with Network Attack and Penetration as demonstrated in Module 5b. (Practice makes perfect.)
 
-This concludes lab exercise 4.
+This concludes this block of instruction.
 

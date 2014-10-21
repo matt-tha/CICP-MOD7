@@ -7,5 +7,5 @@
 5. Repeat these steps to add the address ‘ dmills@doubleshield.org ‘, ‘ Debra Mills ‘
 6. Verify the two email addresses have been added to your workspace. 
 
-This concludes lab exercise 2.
+This concludes lab exercise 2, continue to exercise 3.
 

@@ -24,4 +24,4 @@
 2. Click on CS-WBA Browser Fingerprint and observe the information collected from the End User PCs browser. 
 3. To manually stop the running modules right click Client-side Attack and Penetration and select Stop
 
-This concludes lab exercise 3.
+This concludes lab exercise 3, continue to exercise 4.
