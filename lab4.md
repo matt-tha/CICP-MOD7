@@ -18,7 +18,7 @@
 1. If not already open, launch Outlook Express. 
 2. Click the Send/Receive button located on the toolbar. 
 3. Double Click to open the newly received email message. 
-4. Double Click the attached “ update.exe “ attachment and process to open and install package.
+4. Double Click the attached ``update.exe`` attachment and process to open and install package.
 Congratulations. As the end user you have just fallen victim to a Trojan attack. 
 
 **Switch to the Impact Pro Client virtual machine.**
